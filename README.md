@@ -21,7 +21,9 @@ I am Juan Luis Dolader González, a back-end developer. I am a tech enthusiast &
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jldolader)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jldolader"></a>
+</p>
 
 <p align="end">
    <a href="#" target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=jldolader.jldolader"></a>
