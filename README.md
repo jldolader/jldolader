@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I am Juan Luis Dolader González, a back-end developer. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 <p align="center">
   <a href="https://github.com/jldolader" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@jldolader-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -20,11 +20,3 @@ I am Juan Luis Dolader González, a back-end developer. I am a tech enthusiast &
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=jldolader"></a>
-</p>
-
-<p align="end">
-   <a href="#" target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=jldolader.jldolader"></a>
-</p>
